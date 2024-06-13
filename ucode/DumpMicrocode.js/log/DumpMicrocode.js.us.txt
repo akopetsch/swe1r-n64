@@ -1,0 +1,13 @@
+Finding microcode signatures in "STAR WARS EP1 RACER " ...
+Found signature "RSP Gfx ucode F3DEX.NoN   fifo 2.08  Yoshitaka Yasumoto 1999 Nintendo.
+" at address 0x800ae308
+  Finding overlays table...
+  Found 2 possible overlay entries at address: 0x800ae4b0
+  Microcode size = 0x1188
+  Found 2 possible overlay entries at address: 0x800ae5e0
+  Microcode size = 0x1390
+  Finding OSTask structures...
+  Found OSTask structure at 0x800a6908
+    Dumping microcode to "RSPDUMP/STAR WARS EP1 RACER/RSP Gfx ucode F3DEX.NoN   fifo 2.08  Yoshitaka Yasumoto 1999 Nintendo.(800ae308)"
+    Dumping OSTask to "RSPDUMP/STAR WARS EP1 RACER/RSP Gfx ucode F3DEX.NoN   fifo 2.08  Yoshitaka Yasumoto 1999 Nintendo.(800ae308)/OSTasks"
+Done.

@@ -1,0 +1,443 @@
+[  0%] (built-in signatures)                            [  0%] (built-in signatures)                            [  1%] (built-in signatures)                            [  2%] (built-in signatures)                            [  3%] (built-in signatures)                            [  4%] (built-in signatures)                            [  5%] (built-in signatures)                            [  6%] (built-in signatures)                            [  7%] (built-in signatures)                            [  8%] (built-in signatures)                            [  9%] (built-in signatures)                            [ 10%] (built-in signatures)                            [ 11%] (built-in signatures)                            [ 12%] (built-in signatures)                            [ 13%] (built-in signatures)                            [ 14%] (built-in signatures)                            [ 15%] (built-in signatures)                            [ 16%] (built-in signatures)                            [ 17%] (built-in signatures)                            [ 18%] (built-in signatures)                            [ 19%] (built-in signatures)                            [ 20%] (built-in signatures)                            [ 21%] (built-in signatures)                            [ 22%] (built-in signatures)                            [ 23%] (built-in signatures)                            [ 24%] (built-in signatures)                            [ 25%] (built-in signatures)                            [ 26%] (built-in signatures)                            [ 27%] (built-in signatures)                            [ 28%] (built-in signatures)                            [ 29%] (built-in signatures)                            [ 30%] (built-in signatures)                            [ 31%] (built-in signatures)                            [ 32%] (built-in signatures)                            [ 33%] (built-in signatures)                            [ 34%] (built-in signatures)                            [ 35%] (built-in signatures)                            [ 36%] (built-in signatures)                            [ 37%] (built-in signatures)                            [ 38%] (built-in signatures)                            [ 39%] (built-in signatures)                            [ 40%] (built-in signatures)                            [ 41%] (built-in signatures)                            [ 42%] (built-in signatures)                            [ 43%] (built-in signatures)                            [ 44%] (built-in signatures)                            [ 45%] (built-in signatures)                            [ 46%] (built-in signatures)                            [ 47%] (built-in signatures)                            [ 48%] (built-in signatures)                            [ 49%] (built-in signatures)                            [ 50%] (built-in signatures)                            [ 51%] (built-in signatures)                            [ 52%] (built-in signatures)                            [ 53%] (built-in signatures)                            [ 54%] (built-in signatures)                            [ 55%] (built-in signatures)                            [ 56%] (built-in signatures)                            [ 57%] (built-in signatures)                            [ 58%] (built-in signatures)                            [ 59%] (built-in signatures)                            [ 60%] (built-in signatures)                            [ 61%] (built-in signatures)                            [ 62%] (built-in signatures)                            [ 63%] (built-in signatures)                            [ 64%] (built-in signatures)                            [ 65%] (built-in signatures)                            [ 66%] (built-in signatures)                            [ 67%] (built-in signatures)                            [ 68%] (built-in signatures)                            [ 69%] (built-in signatures)                            [ 70%] (built-in signatures)                            [ 71%] (built-in signatures)                            [ 72%] (built-in signatures)                            [ 73%] (built-in signatures)                            [ 74%] (built-in signatures)                            [ 75%] (built-in signatures)                            [ 76%] (built-in signatures)                            [ 77%] (built-in signatures)                            [ 78%] (built-in signatures)                            [ 79%] (built-in signatures)                            [ 80%] (built-in signatures)                            [ 81%] (built-in signatures)                            [ 82%] (built-in signatures)                            [ 83%] (built-in signatures)                            [ 84%] (built-in signatures)                            [ 85%] (built-in signatures)                            [ 86%] (built-in signatures)                            [ 87%] (built-in signatures)                            [ 88%] (built-in signatures)                            [ 89%] (built-in signatures)                            [ 90%] (built-in signatures)                            [ 91%] (built-in signatures)                            [ 92%] (built-in signatures)                            [ 93%] (built-in signatures)                            [ 94%] (built-in signatures)                            [ 95%] (built-in signatures)                            [ 96%] (built-in signatures)                            [ 97%] (built-in signatures)                            [ 98%] (built-in signatures)                            70007218 n_alSynRemovePlayer
+70087CC0 osInvalDCache
+70087E80 osRecvMesg
+70087FC0 alHeapDBAlloc
+70088020 alUnlink
+70088050 alLink
+700880E0 osCreateMesgQueue
+70088360 osVirtualToPhysical
+700883F8 _timeToSamples
+70088450 _freePVoice
+70088488 _collectPVoices
+700884E8 __freeParam
+70088500 __allocParam
+700887D0 alSynNew
+70089290 bnkf_text_0010
+700899E0 __osContGetInitData
+70089AB0 __osPackRequestData
+70089CC0 contreaddata_text_0110
+7008A5F8 __osPfsReleasePages
+7008AB0C __ull_rem
+7008AB48 __ull_div
+7008ABEC __ll_div
+7008AC48 __ll_mul
+7008AE30 osSetEventMesg
+7008AEA0 sptask_text_0000
+7008B318 motor_text_0168
+7008B810 osCreateThread
+7008B960 osStartThread
+7008BFB0 osSetThreadPri
+7008C2F0 memcpy
+7008C344 strchr
+7008C550 osGetCount
+7008C7B0 osJamMesg
+7008C900 osPiGetCmdQueue
+7008C930 osSendMesg
+7008CA80 __osDisableInt
+7008CAA0 __osRestoreInt
+7008CAC0 __osDequeueThread
+7008D12C __osEnqueueAndYield
+7008D22C __osEnqueueThread
+7008D274 __osPopThread
+7008D284 __osDispatchThread
+7008D410 alSynDelete
+7008D420 __osAiDeviceBusy
+7008D450 __osProbeTLB
+7008D510 alSaveNew
+7008D554 alMainBusNew
+7008D5A8 alAuxBusNew
+7008D5FC alResampleNew
+7008D684 alLoadNew
+7008D72C alEnvmixerNew
+7008D7D0 init_lpfilter
+7008D870 alFxNew
+7008DCB0 alSynAllocFX
+7008DD50 alMainBusParam
+7008DEA0 alLoadParam
+7008E420 load_text_0580
+7008E9F0 alResampleParam
+7008EE04 alEnvmixerParam
+7008F0B4 env_text_03C4
+7008F34C env_text_065C
+7008F950 alAuxBusParam
+7008FA60 alSaveParam
+7008FC3C alEvtqPostEvent
+7008FD60 alEvtqNextEvent
+7008FDEC alEvtqNew
+7008FE60 alSynAddPlayer
+7008FEB0 _allocatePVoice
+70090500 osSetIntMask
+700905A0 __osSiCreateAccessQueue
+700905F0 __osSiGetAccess
+70090634 __osSiRelAccess
+70090660 osGetTime
+700906F0 osSetTimer
+700907D0 __osSiRawStartDma
+70090880 __osPfsGetStatus
+70090AB0 __osSumcalc
+70090B24 __osIdCheckSum
+70090C20 __osRepairPackId
+70090F70 __osCheckPackId
+700910D4 __osGetId
+70091280 __osCheckId
+70091354 __osPfsRWInode
+70091630 osPfsChecker
+70091B68 corrupted_init
+70091E34 corrupted
+70091FD0 __osPfsSelectBank
+70092050 __osContRamRead
+70092250 bcopy
+70092560 __osViInit
+700926A0 osPfsFindFile
+70092850 bzero
+700928F0 __osContRamWrite
+70092B10 xprintf_text_0000
+70093180 _Printf
+70093820 __osPiGetAccess
+70093864 __osPiRelAccess
+70093890 osPiRawReadIo
+700938F0 __osSpGetStatus
+70093900 osWritebackDCache
+70093980 __osSpSetStatus
+70093990 __osSpSetPc
+700939D0 __osSpRawStartDma
+70093A60 __osSpDeviceBusy
+70093C00 __osSetSR
+70093C10 __osGetSR
+70093C20 __osSetFpcCsr
+70093C30 __osSiRawReadIo
+70093C80 __osSiRawWriteIo
+70093CD0 osInvalICache
+70093D50 osMapTLBRdb
+70093DB0 __osTimerServicesInit
+70093FB4 __osSetTimerIntr
+70094028 __osInsertTimer
+700941B0 osGetThreadPri
+700941E0 __osViSwapContext
+70094C80 osEepromRead
+70094E44 conteepread_text_01C4
+70094ED0 osEepromWrite
+70095048 conteepwrite_text_0178
+700950F4 __osEepStatus
+70095AA0 alFilterNew
+70095AC0 _doModFunc
+70095B68 _filterBuffer
+70095C20 _saveBuffer
+70095DA8 _loadBuffer
+70095F34 _loadOutputBuffer
+700963B4 alFxParam
+70096710 alCopy
+70096930 __osPfsRequestData
+70096A00 __osPfsGetInitData
+70096AD0 bcmp
+70096E90 xldtob_text_0000
+70097950 __osSpDeviceBusy
+70097980 __osSetCompare
+70097990 __osResetGlobalIntMask
+700979F0 osEPiRawWriteIo
+70097B80 osEPiRawReadIo
+70097D20 __osSetGlobalIntMask
+70097D70 osYieldThread
+70097E60 lldiv
+70097F60 ldiv
+80000300 osTvType
+80000308 osRomBase
+8000030C osResetType
+8000031C osAppNMIBuffer
+8000052C myfree
+80000538 __osGetActiveQueue
+80000544 __dummy
+8000054C n_alSynFreeFX
+80006FD4 ptstart
+80008610 n_alSeqpDelete
+80011918 leoInitUnit_atten
+80017EE4 MusFxBankNumberOfEffects
+80018450 alSynFreeFX
+8002F9E0 osSyncPrintf
+8002FE80 osSyncPrintf
+8005D310 osSetTime
+80065804 osViExtendVStart
+80073708 alHeapCheck
+80087D70 osPiStartDma
+80087E80 osRecvMesg
+80088050 alLink
+80088074 alClose
+800880AC alInit
+800880E0 osCreateMesgQueue
+800882B0 osAiSetNextBuffer
+80088360 osVirtualToPhysical
+800883F8 _timeToSamples
+80088450 _freePVoice
+80088488 _collectPVoices
+800884E8 __freeParam
+80088500 __allocParam
+80088538 alAudioFrame
+800887D0 alSynNew
+80088AD0 osWritebackDCacheAll
+80088B20 alSndpStop
+80088BFC sndplayer_text_008C
+80089144 alSndpNew
+80089384 alBnkfNew
+80089488 alSeqFileNew
+80089590 alSndpDeallocate
+800895E0 alSndpSetPriority
+80089610 alSndpSetFXMix
+80089670 alSndpSetVol
+800896D0 alSndpSetPitch
+80089730 alSndpSetPan
+80089790 alSndpPlay
+80089800 osContSetCh
+80089870 osContInit
+800899E0 __osContGetInitData
+80089AB0 __osPackRequestData
+80089BB0 osContStartReadData
+80089C34 osContGetReadData
+80089D90 osPfsInit
+8008A150 osPfsFreeBlocks
+8008A2F0 osViSetMode
+8008A360 osViSwapBuffer
+8008A3B0 osViBlack
+8008A420 osPfsDeleteFile
+8008A5F8 __osPfsReleasePages
+8008A690 sprintf_text_0000
+8008A6B4 sprintf
+8008A710 osPiWriteIo
+8008A750 __cosf
+8008AB0C __ull_rem
+8008AB48 __ull_div
+8008AB84 __ll_lshift
+8008ABEC __ll_div
+8008AC48 __ll_mul
+8008AC78 __ull_divremi
+8008ACD8 __ll_mod
+8008AD74 __ll_rshift
+8008ADA0 osAiGetStatus
+8008ADB0 osSpTaskYielded
+8008AE30 osSetEventMesg
+8008AFBC osSpTaskLoad
+8008B14C osSpTaskStartGo
+8008B190 osSpTaskYield
+8008B1B0 __osMotorAccess
+8008B424 osMotorInit
+8008B580 osInitialize
+8008B810 osCreateThread
+8008B960 osStartThread
+8008BAB0 osCreateViManager
+8008BC30 vimgr_text_0180
+8008BFB0 osSetThreadPri
+8008C090 osViSetEvent
+8008C100 osEepromLongRead
+8008C190 osEepromLongWrite
+8008C280 osEepromProbe
+8008C2F0 memcpy
+8008C31C strlen
+8008C344 strchr
+8008C390 osViSetSpecialFeatures
+8008C57C __f_to_ll
+8008C598 __d_to_ull
+8008C638 __f_to_ull
+8008C6D4 __ll_to_d
+8008C6EC __ll_to_f
+8008C704 __ull_to_d
+8008C738 __ull_to_f
+8008C770 osViGetCurrentFramebuffer
+8008C7B0 osJamMesg
+8008C900 osPiGetCmdQueue
+8008C918 MusPtrBankGetCurrent
+8008C930 osSendMesg
+8008CAA0 __osRestoreInt
+8008CB00 __osExceptionPreamble
+8008CB10 __osException
+8008D274 __osPopThread
+8008D284 __osDispatchThread
+8008D400 __osCleanupThread
+8008D450 __osProbeTLB
+8008D510 alSaveNew
+8008D554 alMainBusNew
+8008D5A8 alAuxBusNew
+8008D5FC alResampleNew
+8008D684 alLoadNew
+8008D72C alEnvmixerNew
+8008D7D0 init_lpfilter
+8008D870 alFxNew
+8008DCB0 alSynAllocFX
+8008DD50 alMainBusParam
+8008DD80 alMainBusPull
+8008DEA0 alLoadParam
+8008E074 alRaw16Pull
+8008E54C alAdpcmPull
+8008E9F0 alResampleParam
+8008EADC alResamplePull
+8008ED18 _frexpf
+8008EE04 alEnvmixerParam
+8008F3FC alEnvmixerPull
+8008F950 alAuxBusParam
+8008F980 alAuxBusPull
+8008FA60 alSaveParam
+8008FA94 alSavePull
+8008FB20 alEvtqFlushType
+8008FBCC alEvtqFlush
+8008FC3C alEvtqPostEvent
+8008FD60 alEvtqNextEvent
+8008FDEC alEvtqNew
+8008FE60 alSynAddPlayer
+8008FEB0 _allocatePVoice
+8008FF98 alSynAllocVoice
+800900E0 alSynStartVoice
+80090170 alSynSetPan
+80090200 alSynSetVol
+800902A0 alSynSetPitch
+80090330 alSynSetFXMix
+800903D0 alSynStopVoice
+80090450 alSynFreeVoice
+80090500 osSetIntMask
+800905A0 __osSiCreateAccessQueue
+800905F0 __osSiGetAccess
+80090634 __osSiRelAccess
+80090660 osGetTime
+800906F0 osSetTimer
+800907D0 __osSiRawStartDma
+80090A0C __osPfsGetOneChannelData
+80090B24 __osIdCheckSum
+80090F70 __osCheckPackId
+800910D4 __osGetId
+80091280 __osCheckId
+80091354 __osPfsRWInode
+80091630 osPfsChecker
+80091E34 corrupted
+80091FD0 __osPfsSelectBank
+80092560 __osViInit
+80093180 _Printf
+80093890 osPiRawReadIo
+800939D0 __osSpRawStartDma
+80093B60 __osContDataCrc
+80093C10 __osGetSR
+80093C30 __osSpRawReadIo
+80093C80 __osSpRawWriteIo
+80093E3C __osTimerInterrupt
+80093FB4 __osSetTimerIntr
+80094028 __osInsertTimer
+800941B0 osGetThreadPri
+800941E0 __osViSwapContext
+800944E0 osPiRawStartDma
+800945C0 osEPiRawStartDma
+800947F0 __osDevMgrMain
+80094C80 osEepromRead
+80094ED0 osEepromWrite
+800950F4 __osEepStatus
+80095990 osDestroyThread
+80095B68 _filterBuffer
+80095C20 _saveBuffer
+80095DA8 _loadBuffer
+80095F34 _loadOutputBuffer
+80096158 alFxParamHdl
+800963B4 alFxParam
+800963CC alFxPull
+80096790 osPfsIsPlug
+80096930 __osPfsRequestData
+80096AD0 _bcmp
+80096BF0 _Litob
+80097400 _Ldtob
+80097990 __osResetGlobalIntMask
+80097B80 osEPiRawReadIo
+80097D20 __osSetGlobalIntMask
+80097D70 osYieldThread
+80097DC0 osLeoDiskInit
+80097E60 lldiv
+80097F60 ldiv
+8009A280 gzip_data_0000
+8009B810 leomecha_bss_0004
+800A5A00 __osCurrentTime
+800A6990 alGlobals
+800A69A0 aisetnextbuf_data_0000
+800A69B0 __osContinitialized
+800A7B48 osViClock
+800A7B50 __OSGlobalIntMask
+800A7B60 __osViDevMgr
+800A7B7C __additional_scanline
+800A7B80 __osPiDevMgr
+800A7B88 player_bss_003C
+800A7B9C __osPiTable
+800A7BA0 __osCurrentHandle
+800A7BB8 __osRunQueue
+800A7BBC __osActiveQueue
+800A7BC0 __osRunningThread
+800A7BF0 drvrNew_data_0000
+800A7C58 drvrNew_data_0068
+800A7CE0 drvrNew_data_00F0
+800A7D08 drvrNew_data_0118
+800A7D30 drvrNew_data_0140
+800A7D58 drvrNew_data_0168
+800A7D80 env_data_0000
+800A7E7E env_data_00FE
+800A7EC0 __osSiAccessQueueEnabled
+800A7ED0 __osPfsInodeCacheChannel
+800A7ED4 __osPfsInodeCacheBank
+800A7EF0 vi_data_0000
+800A7F50 __osViCurr
+800A7F54 __osViNext
+800A7F60 xprintf_data_0000
+800A7F84 xprintf_data_0024
+800A7FC0 __osTimerList
+800A7FD0 osViModePalLan1
+800A8020 osViModeMpalLan1
+800A8070 osViModeNtscLan1
+800A80C0 xlitob_data_0000
+800A80D4 xlitob_data_0014
+800ADD80 synthesizer_rodata_0000
+800ADD88 synthesizer_rodata_0008
+800ADDD0 cosf_rodata_0000
+800ADDF8 cosf_rodata_0028
+800ADE00 cosf_rodata_0030
+800ADE08 cosf_rodata_0038
+800ADE10 cosf_rodata_0040
+800ADE70 llcvt_rodata_0000
+800ADE78 llcvt_rodata_0008
+800ADED0 drvrNew_rodata_0000
+800ADEE8 drvrNew_rodata_0018
+800ADF18 resample_rodata_0028
+800ADF20 resample_rodata_0030
+800ADF40 env_rodata_0010
+800ADF90 __osRcpImTable
+800AE010 xprintf_rodata_0000
+800AE014 xprintf_rodata_0004
+800AE01C xprintf_rodata_000C
+800AE110 __libm_qnan_f
+800AE120 devmgr_rodata_0000
+800AE140 reverb_rodata_0000
+800AE160 reverb_rodata_0020
+800AE170 xldtob_rodata_0000
+800AE1B8 xldtob_rodata_0048
+800AE1BC xldtob_rodata_004C
+800AE1C8 xldtob_rodata_0058
+800AF684 osClockRate
+800AF760 __osThreadTail
+800AFEA8 __osViNext
+8011C840 __additional_scanline
+8014391C __osContPifRam
+80146100 vimgr_bss_11B0
+80148A24 __osCurrentTime
+80149C70 __osContPifRam
+80149CB0 __osContLastCmd
+80149CB1 __osMaxControllers
+80149CB8 __osEepromTimer
+80149CD8 __osEepromTimerQ
+80149CF0 __osEepromTimerMsg
+80149D00 __osEventStateTab
+80149DC0 motor_bss_0000
+80149EC0 __osFinalrom
+80149ED0 vimgr_bss_0000
+8014B098 vimgr_bss_11C8
+8014B0B0 vimgr_bss_11E0
+8014B0C8 vimgr_bss_11F8
+8014C3B0 siacs_bss_0000
+8014C3B8 __osSiAccessQueue
+8014C3D0 __osPfsInodeCache
+8014C518 __osBaseCounter
+8014C520 __osTimerCounter
+8014C530 __osEepPifRam
+8014C534 __osEepPifRam
+8014D720 __osPfsPifRam
+8014D75C __osPfsPifRam
+8014D774 __LeoDiskHandle
+8014D7D4 __osDiskHandle
