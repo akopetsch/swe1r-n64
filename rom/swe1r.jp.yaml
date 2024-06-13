@@ -1,0 +1,27 @@
+# ROM splitter configuration file
+name: "Star Wars Episode I - Racer (J)"
+
+# checksums from ROM header offsets 0x10 and 0x14
+# used for auto configuration detection
+checksum1: 0x61F5B152
+checksum2: 0x046122AB
+
+# base filename used for outputs - [please, no spaces)
+basename: "swe1r.j"
+
+# ranges to split the ROM into
+# types:
+#   header   - ROM header block
+#   bin      - raw binary, usually data
+#   asm      - MIPS assembly block.  Symbol names are in 'labels' list below
+ranges:
+   # start,  end,      type,     label
+   - [0x000000, 0x000040, "header", "header"]
+   - [0x000040, 0x001000, "bin",    "boot"]
+   - [0x001000, 0x0998D4, "asm", "main", 0x80000400]
+
+# Labels for functions or data memory addresses
+# All label addresses are RAM addresses
+# Order does not matter
+labels:
+   - [0x80000400, "EntryPoint"]

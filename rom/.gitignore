@@ -1,3 +1,12 @@
+# copied usr/ folder of N64OS installations
+usr/
+
+# n64split
+swe1r.*.split/
+
+# ROMs
 *.z64
 *.z64.boot.bin
-usr/
+
+# IDA Pro
+*.idb
