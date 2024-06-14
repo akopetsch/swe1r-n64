@@ -18,3 +18,6 @@ swe1r.*.til
 # ucode
 ucode.bin
 ucode_boot.bin
+
+# n64soundtools
+n64soundtools/
