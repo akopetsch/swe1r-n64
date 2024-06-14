@@ -19,11 +19,14 @@ ranges:
    - [0x0000000, 0x0000040, "header", "header"]
    - [0x0000040, 0x0001000, "bin", "boot"]
    - [0x0001000, 0x009E134, "asm", "main", 0x80000400]
+   # ucode
+   - [0x009E140, 0x009E210, "bin", "ucode_boot"]
+   - [0x009E210, 0x009F5A0, "bin", "ucode"]
    # blocks
-   - [0x1033850, 0x12d0bc8, "bin", "out_textureblock.bin"]
-   - [0x12D0BD0, 0x1339484, "bin", "out_splineblock.bin"]
-   - [0x1339490, 0x142e198, "bin", "out_spriteblock.bin"]
-   - [0x142E1A0, 0x1ffacf0, "bin", "out_modelblock.bin"]
+   - [0x1033850, 0x12d0bc8, "bin", "out_textureblock"]
+   - [0x12D0BD0, 0x1339484, "bin", "out_splineblock"]
+   - [0x1339490, 0x142e198, "bin", "out_spriteblock"]
+   - [0x142E1A0, 0x1ffacf0, "bin", "out_modelblock"]
 
 # Labels for functions or data memory addresses
 # All label addresses are RAM addresses

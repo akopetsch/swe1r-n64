@@ -9,4 +9,12 @@ swe1r.*.split/
 *.z64.boot.bin
 
 # IDA Pro
-*.idb
+swe1r.*.idb
+swe1r.*.id0
+swe1r.*.id1
+swe1r.*.nam
+swe1r.*.til
+
+# ucode
+ucode.bin
+ucode_boot.bin
