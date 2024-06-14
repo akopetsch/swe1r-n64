@@ -16,9 +16,14 @@ basename: "swe1r.u"
 #   asm      - MIPS assembly block.  Symbol names are in 'labels' list below
 ranges:
    # start,  end,      type,     label
-   - [0x000000, 0x000040, "header", "header"]
-   - [0x000040, 0x001000, "bin",    "boot"]
-   - [0x001000, 0x098BE4, "asm", "main", 0x80000400]
+   - [0x0000000, 0x0000040, "header", "header"]
+   - [0x0000040, 0x0001000, "bin", "boot"]
+   - [0x0001000, 0x0098BE4, "asm", "main", 0x80000400]
+   # blocks
+   - [0x102ABB0, 0x12C7F28, "bin", "out_textureblock.bin"]
+   - [0x12C7F30, 0x13307E4, "bin", "out_splineblock.bin"]
+   - [0x13307F0, 0x141E200, "bin", "out_spriteblock.bin"]
+   - [0x141E200, 0x1FF30F0, "bin", "out_modelblock.bin"]
 
 # Labels for functions or data memory addresses
 # All label addresses are RAM addresses
