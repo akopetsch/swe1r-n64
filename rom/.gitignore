@@ -15,9 +15,10 @@ swe1r.*.id1
 swe1r.*.nam
 swe1r.*.til
 
-# ucode
+# ucode (copied from /ucode/)
 ucode.bin
 ucode_boot.bin
 
-# n64soundtools
+# sound
 n64soundtools/
+N64SoundListTool/
